@@ -167,6 +167,88 @@
       ]
     },
     {
+      "Route": "Images/Products/pinch-of-yum-workshop-19.iwfxlsk9rh.jpg",
+      "AssetFile": "Images/Products/pinch-of-yum-workshop-19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PoynrvRl2f/kzTMAA6U0ODTa128A1Ju6rjEhA6A9p0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 11:17:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iwfxlsk9rh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PoynrvRl2f/kzTMAA6U0ODTa128A1Ju6rjEhA6A9p0U="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/pinch-of-yum-workshop-19.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/pinch-of-yum-workshop-19.jpg",
+      "AssetFile": "Images/Products/pinch-of-yum-workshop-19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PoynrvRl2f/kzTMAA6U0ODTa128A1Ju6rjEhA6A9p0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 11:17:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PoynrvRl2f/kzTMAA6U0ODTa128A1Ju6rjEhA6A9p0U="
+        }
+      ]
+    },
+    {
       "Route": "css/dashboard.css",
       "AssetFile": "css/dashboard.css",
       "Selectors": [],

@@ -17,7 +17,6 @@ namespace EF_Core.Models
         public string VendorId { get; set; }
         public virtual Vendor Vendor { get; set; }
         public bool IsDelated { get; set; }
-        //[NotMapped]
         public DateTime CreatedAt { get; set; }
 
 
@@ -50,7 +49,6 @@ namespace EF_Core.Models
                .WithMany(vendor => vendor.Products)
                .HasForeignKey(prd => prd.VendorId);
 
-            //modelBuilder.HasQueryFilter(i => i.IsDelated == false && i.Quantity > 0);
 
         }
     }

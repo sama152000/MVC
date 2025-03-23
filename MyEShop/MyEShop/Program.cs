@@ -23,6 +23,7 @@ builder.Services.AddIdentity<User, IdentityRole>()
 builder.Services.AddScoped(typeof(ProductManager));
 builder.Services.AddScoped(typeof(CategoryManager));
 builder.Services.AddScoped(typeof(AccountManager));
+builder.Services.AddScoped(typeof(RoleManager));
 #endregion
 
 
@@ -33,8 +34,8 @@ app.UseRouting();
 
 app.UseStaticFiles();//Force WWWRoot
 
-app.UseAuthentication(); // 🔹 ضروري لتشغيل الـ Identity
-app.UseAuthorization();  // 🔹 ضروري للتحكم في الوصول
+app.UseAuthentication(); 
+app.UseAuthorization();  
 
 app.MapControllerRoute(
     name: "default",

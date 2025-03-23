@@ -14,9 +14,7 @@ namespace EShop.Manegers
         public BaseManager(EShopContext _eShopContext)
         {
 
-            //dbcontext = new EShopContext();
-
-            //DI
+            
             dbcontext = _eShopContext;
             table = dbcontext.Set<T>();
         }
@@ -32,7 +30,6 @@ namespace EShop.Manegers
             if (filter != null)
                 quary = quary.Where(filter);
 
-            //Pagination
             if (pageSize < 0)
                 pageSize = 4;
 
@@ -57,7 +54,10 @@ namespace EShop.Manegers
         public IQueryable<T> GetList(
             Expression<Func<T, bool>> filter = null)
         {
-            return table.Where(filter);
+            if (filter != null)
+                return table.Where(filter);
+
+            return table;
         }
         public void Add(T newRow)
         {

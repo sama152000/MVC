@@ -1,4 +1,5 @@
-﻿using EF_Core;
+﻿
+using EF_Core;
 using EF_Core.Models;
 using EShop.ViewModels;
 using Microsoft.AspNetCore.Identity;
@@ -26,12 +27,28 @@ namespace EShop.Manegers
 
         public async Task<IdentityResult> Register(UserRegisterVM userRegister)
         {
-            return await UserManager.CreateAsync(userRegister.ToModel(), userRegister.Password);
+
+            var res = await UserManager.CreateAsync(userRegister.ToModel(), userRegister.Password);
+            if (res.Succeeded)
+            {
+                User user = await UserManager.FindByNameAsync(userRegister.UserName);
+
+                res = await UserManager.AddToRoleAsync(user, userRegister.Role);
+
+                if (userRegister.Role == "Vendor")
+                {
+                    //
+                }
+                else if (userRegister.Role == "Client")
+                {
+                    //
+                }
+            }
+            return res;
         }
 
         public async Task<SignInResult> Login(UserLoginVM vmodel)
         {
-            //if correct Email
             var User = await UserManager.FindByEmailAsync(vmodel.Method);
             if (User != null)
                 return await signInManager.PasswordSignInAsync(User, vmodel.Password, true, true);
@@ -39,5 +56,4 @@ namespace EShop.Manegers
                 return await signInManager.PasswordSignInAsync(vmodel.Method, vmodel.Password, true, true);
         }
     }
-
 }

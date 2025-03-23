@@ -13,6 +13,7 @@ namespace EF_Core.Models
         public OrderStatus Status { get; set; }
         public decimal? CommissionDeducted { get; set; }
         public string? CodeApplied { get; set; }
+
        // public TypeOfPayment PaymentMethod { get; set; }
         public string City { get; set; }
         public string Address { get; set; }

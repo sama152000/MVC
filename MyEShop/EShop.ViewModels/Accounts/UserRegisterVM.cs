@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿
+using System.ComponentModel.DataAnnotations;
 
 namespace EShop.ViewModels
 {
@@ -31,6 +32,10 @@ namespace EShop.ViewModels
         [DataType(DataType.Password)]
         [Display(Name = "Confirm Password")]
         public string ConformPassord { get; set; }
+
+        [Required(ErrorMessage = "Role is Required")]
+        public string Role { get; set; }
+
 
     }
 }

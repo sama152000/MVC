@@ -47,9 +47,6 @@ namespace EShop.Presentation.Controllers
             categoryManager.Edit(category);
             return RedirectToAction("List");
         }
-        //public IActionResult testjson()
-        //{
-        //    return new JsonResult(new { Id = 1, Name = "Heba" });
-        //}
+     
     }
 }

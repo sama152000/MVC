@@ -1,6 +1,7 @@
 wwwroot\css\dashboard.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Images\Products\pinch-of-yum-workshop-19.jpg
 wwwroot\Images\Products\Ultraprocessed-food-58d54c3.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

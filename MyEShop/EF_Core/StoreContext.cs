@@ -8,15 +8,11 @@ namespace EF_Core
 {
     public class EShopContext : IdentityDbContext<User>
     {
-        //tables
+        
         public EShopContext(DbContextOptions options) : base(options)
         {
         }
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    optionsBuilder.UseLazyLoadingProxies().UseSqlServer("Data source = DESKTOP-0KJMNFC; Initial catalog = E-Shopp; Integrated security= true; trustservercertificate = true;MultipleActiveResultSets=True");
-        //    base.OnConfiguring(optionsBuilder);
-        //}
+        
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductAttachment> ProductAttachments { get; set; }

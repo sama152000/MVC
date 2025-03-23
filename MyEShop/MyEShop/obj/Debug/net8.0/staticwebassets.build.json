@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e3eHVo3aFb/EZhJ2+rxeuuc3JGNUqKUTbXVjSczXN14=",
+  "Hash": "6IUkeJw6KXM2GpTKQbnY3jiVQNOtB68bhBlXI4hzRYw=",
   "Source": "EShop.Presentation",
   "BasePath": "_content/EShop.Presentation",
   "Mode": "Default",
@@ -120,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\Images\\Products\\pinch-of-yum-workshop-19.jpg",
+      "SourceId": "EShop.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\",
+      "BasePath": "_content/EShop.Presentation",
+      "RelativePath": "Images/Products/pinch-of-yum-workshop-19#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iwfxlsk9rh",
+      "Integrity": "PoynrvRl2f/kzTMAA6U0ODTa128A1Ju6rjEhA6A9p0U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\pinch-of-yum-workshop-19.jpg"
     },
     {
       "Identity": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\Images\\Products\\Ultraprocessed-food-58d54c3.jpg",
@@ -1769,6 +1790,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/pinch-of-yum-workshop-19.iwfxlsk9rh.jpg",
+      "AssetFile": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\Images\\Products\\pinch-of-yum-workshop-19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PoynrvRl2f/kzTMAA6U0ODTa128A1Ju6rjEhA6A9p0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 11:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iwfxlsk9rh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/pinch-of-yum-workshop-19.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PoynrvRl2f/kzTMAA6U0ODTa128A1Ju6rjEhA6A9p0U="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/pinch-of-yum-workshop-19.jpg",
+      "AssetFile": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\Images\\Products\\pinch-of-yum-workshop-19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PoynrvRl2f/kzTMAA6U0ODTa128A1Ju6rjEhA6A9p0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 11:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PoynrvRl2f/kzTMAA6U0ODTa128A1Ju6rjEhA6A9p0U="
         }
       ]
     },

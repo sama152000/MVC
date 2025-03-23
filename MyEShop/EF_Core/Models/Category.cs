@@ -9,8 +9,7 @@ namespace EF_Core.Models
         public string Name { get; set; }
         public string? Description { get; set; }
         public string? Image { get; set; }
-        //Server Back end 
-        //other Storage
+       
         public virtual ICollection<Product> Products { get; set; }
     }
 
