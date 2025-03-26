@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\myeshop\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|solutionrelative:myeshop\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\myeshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|solutionrelative:myeshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84D0291-135B-4DEF-AC6E-0DFDFD985BE8}|EShop.Manegers\\EShop.Manegers.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\eshop.manegers\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84D0291-135B-4DEF-AC6E-0DFDFD985BE8}|EShop.Manegers\\EShop.Manegers.csproj|solutionrelative:eshop.manegers\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\myeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|solutionrelative:myeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\myeshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|solutionrelative:myeshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\myeshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|solutionrelative:myeshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\ef_core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\ef_core\\models\\productattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\models\\productattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84D0291-135B-4DEF-AC6E-0DFDFD985BE8}|EShop.Manegers\\EShop.Manegers.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\eshop.manegers\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84D0291-135B-4DEF-AC6E-0DFDFD985BE8}|EShop.Manegers\\EShop.Manegers.csproj|solutionrelative:eshop.manegers\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\ef_core\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{338DC781-8933-4596-94B5-24AE00117C6B}|EShop.API\\EShop.API\\EShop.API.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\eshop.api\\eshop.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338DC781-8933-4596-94B5-24AE00117C6B}|EShop.API\\EShop.API\\EShop.API.csproj|solutionrelative:eshop.api\\eshop.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\myeshop\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|solutionrelative:myeshop\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\myeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|solutionrelative:myeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\myeshop\\eshop.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -99,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|solutionrelative:myeshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\myeshop\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|solutionrelative:myeshop\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\myeshop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|solutionrelative:myeshop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -133,10 +165,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C84D0291-135B-4DEF-AC6E-0DFDFD985BE8}|EShop.Manegers\\EShop.Manegers.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\eshop.manegers\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C84D0291-135B-4DEF-AC6E-0DFDFD985BE8}|EShop.Manegers\\EShop.Manegers.csproj|solutionrelative:eshop.manegers\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\myeshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|solutionrelative:myeshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AAB4740-C7F3-4232-B89F-F9963EBF97AE}|MyEShop\\EShop.Presentation.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\myeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -175,10 +203,6 @@
       "RelativeMoniker": "D:0:0:{C84D0291-135B-4DEF-AC6E-0DFDFD985BE8}|EShop.Manegers\\EShop.Manegers.csproj|solutionrelative:eshop.manegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C84D0291-135B-4DEF-AC6E-0DFDFD985BE8}|EShop.Manegers\\EShop.Manegers.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\eshop.manegers\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C84D0291-135B-4DEF-AC6E-0DFDFD985BE8}|EShop.Manegers\\EShop.Manegers.csproj|solutionrelative:eshop.manegers\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\ef_core\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -191,20 +215,8 @@
       "RelativeMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\ef_core\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\ef_core\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\ef_core\\models\\productattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\models\\productattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\ef_core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98F0EB8E-7D46-428E-B170-84D3D7A91111}|EF_Core\\EF_Core.csproj|c:\\users\\hyper\\desktop\\asp\\myeshop\\ef_core\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -301,7 +313,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -310,435 +322,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\AddCategoryVM.cs",
-              "RelativeDocumentMoniker": "EShop.ViewModels\\AddCategoryVM.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\AddCategoryVM.cs",
-              "RelativeToolTip": "EShop.ViewModels\\AddCategoryVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T11:09:18.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "EShop.API\\EShop.API\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "EShop.API\\EShop.API\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T11:04:32.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EShop.Presentation",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\EShop.Presentation.csproj",
-              "RelativeDocumentMoniker": "MyEShop\\EShop.Presentation.csproj",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\EShop.Presentation.csproj",
-              "RelativeToolTip": "MyEShop\\EShop.Presentation.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T10:47:53.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "MyEShop\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "MyEShop\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAYwGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:51:20.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyEShop\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "MyEShop\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyEShop\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "MyEShop\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T12:01:44.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EShop.ViewModels.csproj",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\EShop.ViewModels.csproj",
-              "RelativeDocumentMoniker": "EShop.ViewModels\\EShop.ViewModels.csproj",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\EShop.ViewModels.csproj",
-              "RelativeToolTip": "EShop.ViewModels\\EShop.ViewModels.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-24T11:53:33.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "EShop.Manegers",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\EShop.Manegers.csproj",
-              "RelativeDocumentMoniker": "EShop.Manegers\\EShop.Manegers.csproj",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\EShop.Manegers.csproj",
-              "RelativeToolTip": "EShop.Manegers\\EShop.Manegers.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T10:38:53.669Z",
+              "WhenOpened": "2025-03-26T11:45:13.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Program.cs",
-              "RelativeDocumentMoniker": "MyEShop\\Program.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Program.cs",
-              "RelativeToolTip": "MyEShop\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAADcAAAAKAAAAAAAAAA==",
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "MyEShop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "MyEShop\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T12:05:55.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyEShop\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "MyEShop\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T12:03:35.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MyEShop\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MyEShop\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T13:00:34.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "MyEShop\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "MyEShop\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T10:40:49.273Z",
+              "WhenOpened": "2025-03-26T11:42:24.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "EShop.API\\EShop.API\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "EShop.API\\EShop.API\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAgAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Product.cs",
+              "RelativeToolTip": "EF_Core\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T10:35:51.992Z",
+              "WhenOpened": "2025-03-22T11:35:21.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Admin\\Views\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyEShop\\Areas\\Admin\\Views\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Admin\\Views\\Index.cshtml",
-              "RelativeToolTip": "MyEShop\\Areas\\Admin\\Views\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T08:17:44.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MyEShop\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MyEShop\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T08:30:32.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Vendor\\Views\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyEShop\\Areas\\Vendor\\Views\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Vendor\\Views\\Index.cshtml",
-              "RelativeToolTip": "MyEShop\\Areas\\Vendor\\Views\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T09:52:13.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Vendor\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MyEShop\\Areas\\Vendor\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Vendor\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MyEShop\\Areas\\Vendor\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:51:42.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AccountManager.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\AccountManager.cs",
-              "RelativeDocumentMoniker": "EShop.Manegers\\AccountManager.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\AccountManager.cs",
-              "RelativeToolTip": "EShop.Manegers\\AccountManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:48:53.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ClientManager.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\ClientManager.cs",
-              "RelativeDocumentMoniker": "EShop.Manegers\\ClientManager.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\ClientManager.cs",
-              "RelativeToolTip": "EShop.Manegers\\ClientManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:15:31.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "VendorManager.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\VendorManager.cs",
-              "RelativeDocumentMoniker": "EShop.Manegers\\VendorManager.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\VendorManager.cs",
-              "RelativeToolTip": "EShop.Manegers\\VendorManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:14:14.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\User.cs",
-              "RelativeDocumentMoniker": "EF_Core\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\User.cs",
-              "RelativeToolTip": "EF_Core\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:34:30.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Program.cs",
-              "RelativeDocumentMoniker": "EShop.API\\EShop.API\\Program.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Program.cs",
-              "RelativeToolTip": "EShop.API\\EShop.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T10:22:12.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "EShop.API\\EShop.API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "EShop.API\\EShop.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T10:37:16.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "EShop.API\\EShop.API\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "EShop.API\\EShop.API\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T10:20:08.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "MyEShop\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "MyEShop\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:52:37.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_UserLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Shared\\_UserLayout.cshtml",
-              "RelativeDocumentMoniker": "MyEShop\\Views\\Shared\\_UserLayout.cshtml",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Shared\\_UserLayout.cshtml",
-              "RelativeToolTip": "MyEShop\\Views\\Shared\\_UserLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T10:43:42.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "PaginationViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\PaginationViewModel.cs",
-              "RelativeDocumentMoniker": "EShop.ViewModels\\PaginationViewModel.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\PaginationViewModel.cs",
-              "RelativeToolTip": "EShop.ViewModels\\PaginationViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:37:52.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AccountServices.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Services\\AccountServices.cs",
-              "RelativeDocumentMoniker": "EShop.Services\\AccountServices.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Services\\AccountServices.cs",
-              "RelativeToolTip": "EShop.Services\\AccountServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:42:57.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AddProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\AddProductViewModel.cs",
-              "RelativeDocumentMoniker": "EShop.ViewModels\\AddProductViewModel.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\AddProductViewModel.cs",
-              "RelativeToolTip": "EShop.ViewModels\\AddProductViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:32:53.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "MyEShop\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "MyEShop\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-26T08:16:07.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ProductDetailsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\ProductDetailsViewModel.cs",
-              "RelativeDocumentMoniker": "EShop.ViewModels\\ProductDetailsViewModel.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\ProductDetailsViewModel.cs",
-              "RelativeToolTip": "EShop.ViewModels\\ProductDetailsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:38:42.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ProductExt.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\ProductExt.cs",
-              "RelativeDocumentMoniker": "EShop.ViewModels\\ProductExt.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\ProductExt.cs",
-              "RelativeToolTip": "EShop.ViewModels\\ProductExt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:39:36.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "MultiLine.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\CustomValidtion\\MultiLine.cs",
-              "RelativeDocumentMoniker": "EShop.ViewModels\\CustomValidtion\\MultiLine.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\CustomValidtion\\MultiLine.cs",
-              "RelativeToolTip": "EShop.ViewModels\\CustomValidtion\\MultiLine.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:45:07.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BaseManager.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\BaseManager.cs",
-              "RelativeDocumentMoniker": "EShop.Manegers\\BaseManager.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\BaseManager.cs",
-              "RelativeToolTip": "EShop.Manegers\\BaseManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:48:41.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 5,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "MyEShop\\Controllers\\ProductController.cs",
@@ -751,202 +373,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MyEShop\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MyEShop\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:56:42.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Vendor.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Vendor.cs",
-              "RelativeDocumentMoniker": "EF_Core\\Models\\Vendor.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Vendor.cs",
-              "RelativeToolTip": "EF_Core\\Models\\Vendor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:33:56.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\ProductManager.cs",
-              "RelativeDocumentMoniker": "EShop.Manegers\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\ProductManager.cs",
-              "RelativeToolTip": "EShop.Manegers\\ProductManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:48:20Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "UserRegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Accounts\\UserRegisterVM.cs",
-              "RelativeDocumentMoniker": "EShop.ViewModels\\Accounts\\UserRegisterVM.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Accounts\\UserRegisterVM.cs",
-              "RelativeToolTip": "EShop.ViewModels\\Accounts\\UserRegisterVM.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T12:08:19.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "AccountExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Accounts\\AccountExtensions.cs",
-              "RelativeDocumentMoniker": "EShop.ViewModels\\Accounts\\AccountExtensions.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Accounts\\AccountExtensions.cs",
-              "RelativeToolTip": "EShop.ViewModels\\Accounts\\AccountExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T12:08:51.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "UserLoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Accounts\\UserLoginVM.cs",
-              "RelativeDocumentMoniker": "EShop.ViewModels\\Accounts\\UserLoginVM.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Accounts\\UserLoginVM.cs",
-              "RelativeToolTip": "EShop.ViewModels\\Accounts\\UserLoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T12:08:31.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\RoleController.cs",
-              "RelativeDocumentMoniker": "MyEShop\\Controllers\\RoleController.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\RoleController.cs",
-              "RelativeToolTip": "MyEShop\\Controllers\\RoleController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwAoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:47:39.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "RoleManger.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\RoleManger.cs",
-              "RelativeDocumentMoniker": "EShop.Manegers\\RoleManger.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\RoleManger.cs",
-              "RelativeToolTip": "EShop.Manegers\\RoleManger.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:29:35.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\Program.cs",
-              "RelativeDocumentMoniker": "EShop.Manegers\\Program.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\Program.cs",
-              "RelativeToolTip": "EShop.Manegers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Program.cs",
+              "RelativeDocumentMoniker": "MyEShop\\Program.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Program.cs",
+              "RelativeToolTip": "MyEShop\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAD4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:47:25.365Z",
+              "WhenOpened": "2025-03-22T12:05:55.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "CategoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\CategoryManager.cs",
-              "RelativeDocumentMoniker": "EShop.Manegers\\CategoryManager.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\CategoryManager.cs",
-              "RelativeToolTip": "EShop.Manegers\\CategoryManager.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:48:31.289Z",
+              "DocumentIndex": 0,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "MyEShop\\Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Shared\\_UserLayout.cshtml*",
+              "RelativeToolTip": "MyEShop\\Views\\Shared\\_UserLayout.cshtml*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T10:43:42.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "StoreContext.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\StoreContext.cs",
-              "RelativeDocumentMoniker": "EF_Core\\StoreContext.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\StoreContext.cs",
-              "RelativeToolTip": "EF_Core\\StoreContext.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAACBjwAoAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CartManager.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\CartManager.cs",
+              "RelativeDocumentMoniker": "EShop.Manegers\\CartManager.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\CartManager.cs",
+              "RelativeToolTip": "EShop.Manegers\\CartManager.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwDUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:40:58.913Z",
+              "WhenOpened": "2025-03-26T11:40:51.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Program.cs",
-              "RelativeDocumentMoniker": "EF_Core\\Program.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Program.cs",
-              "RelativeToolTip": "EF_Core\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:28:47.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "DataSeeding.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\DataSeeding.cs",
-              "RelativeDocumentMoniker": "EF_Core\\DataSeeding.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\DataSeeding.cs",
-              "RelativeToolTip": "EF_Core\\DataSeeding.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:41:50.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Shop.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Shop.cs",
-              "RelativeDocumentMoniker": "EF_Core\\Models\\Shop.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Shop.cs",
-              "RelativeToolTip": "EF_Core\\Models\\Shop.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:34:42.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "EF_Core\\Models\\Review.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Review.cs",
-              "RelativeToolTip": "EF_Core\\Models\\Review.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:34:50.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 7,
               "Title": "ProductAttachment.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\ProductAttachment.cs",
               "RelativeDocumentMoniker": "EF_Core\\Models\\ProductAttachment.cs",
@@ -959,20 +425,562 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "EF_Core\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Product.cs",
-              "RelativeToolTip": "EF_Core\\Models\\Product.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "EShop.API\\EShop.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EShop.API\\EShop.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:35:21.328Z",
+              "WhenOpened": "2025-03-26T11:04:32.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyEShop\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MyEShop\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T12:01:44.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MyEShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MyEShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:51:20.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "EShop.Manegers\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\CategoryManager.cs",
+              "RelativeToolTip": "EShop.Manegers\\CategoryManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:48:31.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EShop.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\EShop.Presentation.csproj",
+              "RelativeDocumentMoniker": "MyEShop\\EShop.Presentation.csproj",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\EShop.Presentation.csproj",
+              "RelativeToolTip": "MyEShop\\EShop.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T10:47:53.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\AddCategoryVM.cs",
+              "RelativeDocumentMoniker": "EShop.ViewModels\\AddCategoryVM.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\AddCategoryVM.cs",
+              "RelativeToolTip": "EShop.ViewModels\\AddCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:09:18.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Models\\Shop.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Shop.cs",
+              "RelativeToolTip": "EF_Core\\Models\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:34:42.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EShop.ViewModels.csproj",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\EShop.ViewModels.csproj",
+              "RelativeDocumentMoniker": "EShop.ViewModels\\EShop.ViewModels.csproj",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\EShop.ViewModels.csproj",
+              "RelativeToolTip": "EShop.ViewModels\\EShop.ViewModels.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T11:53:33.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EShop.Manegers.csproj",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\EShop.Manegers.csproj",
+              "RelativeDocumentMoniker": "EShop.Manegers\\EShop.Manegers.csproj",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\EShop.Manegers.csproj",
+              "RelativeToolTip": "EShop.Manegers\\EShop.Manegers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T10:38:53.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyEShop\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MyEShop\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T12:03:35.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyEShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyEShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T13:00:34.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MyEShop\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MyEShop\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T10:40:49.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EShop.API\\EShop.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EShop.API\\EShop.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:35:51.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Admin\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyEShop\\Areas\\Admin\\Views\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Admin\\Views\\Index.cshtml",
+              "RelativeToolTip": "MyEShop\\Areas\\Admin\\Views\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T08:17:44.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyEShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyEShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:30:32.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Vendor\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyEShop\\Areas\\Vendor\\Views\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Vendor\\Views\\Index.cshtml",
+              "RelativeToolTip": "MyEShop\\Areas\\Vendor\\Views\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T09:52:13.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Vendor\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyEShop\\Areas\\Vendor\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Areas\\Vendor\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyEShop\\Areas\\Vendor\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:51:42.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\AccountManager.cs",
+              "RelativeDocumentMoniker": "EShop.Manegers\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\AccountManager.cs",
+              "RelativeToolTip": "EShop.Manegers\\AccountManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:48:53.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\ClientManager.cs",
+              "RelativeDocumentMoniker": "EShop.Manegers\\ClientManager.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\ClientManager.cs",
+              "RelativeToolTip": "EShop.Manegers\\ClientManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:15:31.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VendorManager.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\VendorManager.cs",
+              "RelativeDocumentMoniker": "EShop.Manegers\\VendorManager.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\VendorManager.cs",
+              "RelativeToolTip": "EShop.Manegers\\VendorManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:14:14.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\User.cs",
+              "RelativeToolTip": "EF_Core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:34:30.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Program.cs",
+              "RelativeDocumentMoniker": "EShop.API\\EShop.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Program.cs",
+              "RelativeToolTip": "EShop.API\\EShop.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:22:12.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EShop.API\\EShop.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EShop.API\\EShop.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:37:16.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EShop.API\\EShop.API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EShop.API\\EShop.API\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:20:08.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyEShop\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyEShop\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:52:37.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PaginationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\PaginationViewModel.cs",
+              "RelativeDocumentMoniker": "EShop.ViewModels\\PaginationViewModel.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\PaginationViewModel.cs",
+              "RelativeToolTip": "EShop.ViewModels\\PaginationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:37:52.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AccountServices.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Services\\AccountServices.cs",
+              "RelativeDocumentMoniker": "EShop.Services\\AccountServices.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Services\\AccountServices.cs",
+              "RelativeToolTip": "EShop.Services\\AccountServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:42:57.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\AddProductViewModel.cs",
+              "RelativeDocumentMoniker": "EShop.ViewModels\\AddProductViewModel.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\AddProductViewModel.cs",
+              "RelativeToolTip": "EShop.ViewModels\\AddProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:32:53.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MyEShop\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MyEShop\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-26T08:16:07.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\ProductDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "EShop.ViewModels\\ProductDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\ProductDetailsViewModel.cs",
+              "RelativeToolTip": "EShop.ViewModels\\ProductDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:38:42.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductExt.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\ProductExt.cs",
+              "RelativeDocumentMoniker": "EShop.ViewModels\\ProductExt.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\ProductExt.cs",
+              "RelativeToolTip": "EShop.ViewModels\\ProductExt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:39:36.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MultiLine.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\CustomValidtion\\MultiLine.cs",
+              "RelativeDocumentMoniker": "EShop.ViewModels\\CustomValidtion\\MultiLine.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\CustomValidtion\\MultiLine.cs",
+              "RelativeToolTip": "EShop.ViewModels\\CustomValidtion\\MultiLine.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:45:07.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\BaseManager.cs",
+              "RelativeDocumentMoniker": "EShop.Manegers\\BaseManager.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\BaseManager.cs",
+              "RelativeToolTip": "EShop.Manegers\\BaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:48:41.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyEShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyEShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:56:42.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Models\\Vendor.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Vendor.cs",
+              "RelativeToolTip": "EF_Core\\Models\\Vendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:33:56.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\ProductManager.cs",
+              "RelativeDocumentMoniker": "EShop.Manegers\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\ProductManager.cs",
+              "RelativeToolTip": "EShop.Manegers\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:48:20Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserRegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Accounts\\UserRegisterVM.cs",
+              "RelativeDocumentMoniker": "EShop.ViewModels\\Accounts\\UserRegisterVM.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Accounts\\UserRegisterVM.cs",
+              "RelativeToolTip": "EShop.ViewModels\\Accounts\\UserRegisterVM.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:08:19.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AccountExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Accounts\\AccountExtensions.cs",
+              "RelativeDocumentMoniker": "EShop.ViewModels\\Accounts\\AccountExtensions.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Accounts\\AccountExtensions.cs",
+              "RelativeToolTip": "EShop.ViewModels\\Accounts\\AccountExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:08:51.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserLoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Accounts\\UserLoginVM.cs",
+              "RelativeDocumentMoniker": "EShop.ViewModels\\Accounts\\UserLoginVM.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Accounts\\UserLoginVM.cs",
+              "RelativeToolTip": "EShop.ViewModels\\Accounts\\UserLoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T12:08:31.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "MyEShop\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "MyEShop\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:47:39.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RoleManger.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\RoleManger.cs",
+              "RelativeDocumentMoniker": "EShop.Manegers\\RoleManger.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\RoleManger.cs",
+              "RelativeToolTip": "EShop.Manegers\\RoleManger.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:29:35.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\Program.cs",
+              "RelativeDocumentMoniker": "EShop.Manegers\\Program.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.Manegers\\Program.cs",
+              "RelativeToolTip": "EShop.Manegers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:47:25.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\StoreContext.cs",
+              "RelativeDocumentMoniker": "EF_Core\\StoreContext.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\StoreContext.cs",
+              "RelativeToolTip": "EF_Core\\StoreContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAACBjwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:40:58.913Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Program.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Program.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Program.cs",
+              "RelativeToolTip": "EF_Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:28:47.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "EF_Core\\DataSeeding.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\DataSeeding.cs",
+              "RelativeToolTip": "EF_Core\\DataSeeding.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:41:50.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Review.cs",
+              "RelativeToolTip": "EF_Core\\Models\\Review.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:34:50.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "EF_Core\\Models\\OrderItem.cs",
@@ -980,12 +988,11 @@
               "RelativeToolTip": "EF_Core\\Models\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:32:28.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T11:32:28.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Order.cs",
               "RelativeDocumentMoniker": "EF_Core\\Models\\Order.cs",
@@ -993,12 +1000,11 @@
               "RelativeToolTip": "EF_Core\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:32:48.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T11:32:48.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "FavoriteItem.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\FavoriteItem.cs",
               "RelativeDocumentMoniker": "EF_Core\\Models\\FavoriteItem.cs",
@@ -1006,12 +1012,11 @@
               "RelativeToolTip": "EF_Core\\Models\\FavoriteItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:32:58.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T11:32:58.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Client.cs",
               "RelativeDocumentMoniker": "EF_Core\\Models\\Client.cs",
@@ -1019,12 +1024,11 @@
               "RelativeToolTip": "EF_Core\\Models\\Client.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:31:23.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T11:31:23.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\Category.cs",
               "RelativeDocumentMoniker": "EF_Core\\Models\\Category.cs",
@@ -1032,12 +1036,11 @@
               "RelativeToolTip": "EF_Core\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:31:36.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T11:31:36.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "EF_Core\\Models\\CartItem.cs",
@@ -1050,7 +1053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "20250323103637_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Migrations\\20250323103637_InitialCreate.cs",
               "RelativeDocumentMoniker": "EF_Core\\Migrations\\20250323103637_InitialCreate.cs",
@@ -1058,12 +1061,11 @@
               "RelativeToolTip": "EF_Core\\Migrations\\20250323103637_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:36:37.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:36:37.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 75,
               "Title": "20250323143650_Initialcrate.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Migrations\\20250323143650_Initialcrate.cs",
               "RelativeDocumentMoniker": "EF_Core\\Migrations\\20250323143650_Initialcrate.cs",
@@ -1071,12 +1073,11 @@
               "RelativeToolTip": "EF_Core\\Migrations\\20250323143650_Initialcrate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:36:51.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T14:36:51.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "MyEShop\\Views\\Account\\Register.cshtml",
@@ -1084,12 +1085,11 @@
               "RelativeToolTip": "MyEShop\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwDIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T12:00:17.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T12:00:17.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Role\\Add.cshtml",
               "RelativeDocumentMoniker": "MyEShop\\Views\\Role\\Add.cshtml",
@@ -1097,12 +1097,11 @@
               "RelativeToolTip": "MyEShop\\Views\\Role\\Add.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAIBpwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T11:43:23.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T11:43:23.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "RoleViewModel.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Role\\RoleViewModel.cs",
               "RelativeDocumentMoniker": "EShop.ViewModels\\Role\\RoleViewModel.cs",
@@ -1110,12 +1109,11 @@
               "RelativeToolTip": "EShop.ViewModels\\Role\\RoleViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:54:10.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T11:54:10.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "AddRoleVM.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.ViewModels\\Role\\AddRoleVM.cs",
               "RelativeDocumentMoniker": "EShop.ViewModels\\Role\\AddRoleVM.cs",
@@ -1123,12 +1121,11 @@
               "RelativeToolTip": "EShop.ViewModels\\Role\\AddRoleVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:03:55.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T12:03:55.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\appsettings.json",
               "RelativeDocumentMoniker": "MyEShop\\appsettings.json",
@@ -1136,12 +1133,11 @@
               "RelativeToolTip": "MyEShop\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-22T11:20:31.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T11:20:31.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MyEShop\\Views\\_ViewStart.cshtml",
@@ -1149,12 +1145,11 @@
               "RelativeToolTip": "MyEShop\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T10:44:57.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:44:57.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
@@ -1162,12 +1157,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-03-23T11:00:40.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T11:00:40.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EF_Core\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "EF_Core\\Enums\\OrderStatus.cs",
@@ -1175,12 +1169,11 @@
               "RelativeToolTip": "EF_Core\\Enums\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:30:12.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T11:30:12.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "MyEShop\\Views\\Account\\Login.cshtml",
@@ -1188,12 +1181,11 @@
               "RelativeToolTip": "MyEShop\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T12:00:26.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T12:00:26.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "add.cshtml",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Category\\add.cshtml",
               "RelativeDocumentMoniker": "MyEShop\\Views\\Category\\add.cshtml",
@@ -1201,12 +1193,11 @@
               "RelativeToolTip": "MyEShop\\Views\\Category\\add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T12:02:01.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T12:02:01.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 71,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "MyEShop\\Views\\Category\\Edit.cshtml",
@@ -1214,12 +1205,11 @@
               "RelativeToolTip": "MyEShop\\Views\\Category\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T12:01:51.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T12:01:51.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 72,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\Views\\Product\\Add.cshtml",
               "RelativeDocumentMoniker": "MyEShop\\Views\\Product\\Add.cshtml",
@@ -1227,12 +1217,11 @@
               "RelativeToolTip": "MyEShop\\Views\\Product\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T12:03:44.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T12:03:44.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 73,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MyEShop\\wwwroot\\css\\site.css",
@@ -1240,12 +1229,11 @@
               "RelativeToolTip": "MyEShop\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-22T11:53:30.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T11:53:30.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 74,
               "Title": "dashboard.css",
               "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\css\\dashboard.css",
               "RelativeDocumentMoniker": "MyEShop\\wwwroot\\css\\dashboard.css",
@@ -1253,8 +1241,7 @@
               "RelativeToolTip": "MyEShop\\wwwroot\\css\\dashboard.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-22T11:53:45.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T11:53:45.667Z"
             }
           ]
         }

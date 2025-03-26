@@ -19,6 +19,11 @@ i.UseLazyLoadingProxies()
 builder.Services.AddIdentity<User, IdentityRole>()
     .AddEntityFrameworkStores<EShopContext>();
 
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddScoped<CartManager>();
+builder.Services.AddSession(); // تأكدي إن الجلسات مفعلة
+
+
 builder.Services.AddScoped(typeof(AccountManager));
 builder.Services.AddScoped(typeof(RoleManager));
 builder.Services.AddScoped(typeof(VendorManager));
@@ -36,6 +41,8 @@ var app = builder.Build();
 
 #region Add / Use Middelware
 app.UseRouting();
+app.UseSession();
+
 
 app.UseStaticFiles();//Force WWWRoot
 

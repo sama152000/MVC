@@ -200,3 +200,4 @@ C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\obj\Debug\net8.0\refint\EShop.
 C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\obj\Debug\net8.0\EShop.Manegers.pdb
 C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\obj\Debug\net8.0\EShop.Manegers.genruntimeconfig.cache
 C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\obj\Debug\net8.0\ref\EShop.Manegers.dll
+C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\bin\Debug\net8.0\Newtonsoft.Json.dll

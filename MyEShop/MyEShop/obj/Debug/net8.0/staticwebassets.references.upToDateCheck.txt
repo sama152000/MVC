@@ -3,3 +3,6 @@ C:\Users\hyper\Desktop\ASP\MyEShop\EShop.API\EShop.API\obj\Debug\net8.0\staticwe
 C:\Users\hyper\Desktop\ASP\MyEShop\EShop.API\EShop.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\hyper\Desktop\ASP\MyEShop\EShop.API\EShop.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\hyper\Desktop\ASP\MyEShop\EShop.API\EShop.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hyper\Desktop\ASP\MyEShop\EShop.API\EShop.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hyper\Desktop\ASP\MyEShop\EShop.API\EShop.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hyper\Desktop\ASP\MyEShop\EShop.API\EShop.API\obj\Debug\net8.0\staticwebassets.build.json

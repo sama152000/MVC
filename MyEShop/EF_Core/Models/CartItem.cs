@@ -13,7 +13,8 @@ namespace EF_Core.Models
         public virtual Product Product { get; set; }
         public string ClientId { get; set; }
         public virtual Client Client { get; set; }
-
+        public string Name { get; set; }
+        public decimal Price { get; set; }
     }
     public class CartItemConfigration : IEntityTypeConfiguration<CartItem>
     {
