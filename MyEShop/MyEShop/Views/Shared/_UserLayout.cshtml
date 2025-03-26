@@ -1,91 +1,80 @@
-﻿<html>
+﻿﻿
+<html>
 <head>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" />
+    @RenderSection("styles", false)
 </head>
-<style>
-    /* تحسين تصميم الـ Navbar */
-    .navbar {
-        background-color: #023059 !important;
-        padding: 15px;
-    }
-
-    .navbar-brand, .nav-link {
-        color: white !important;
-    }
-
-    .navbar-nav .nav-link {
-        transition: 0.3s;
-    }
-
-        .navbar-nav .nav-link:hover {
-            color: #EFB036 !important;
-        }
-
-    /* تحسين زر البحث */
-    .btn-outline-success {
-        border-color: #EFB036;
-        color: #EFB036;
-    }
-
-        .btn-outline-success:hover {
-            background-color: #EFB036;
-            color: white;
-        }
-
-    /* تحسين تصميم الفوتر */
-    footer {
-        background-color: #023059;
-        color: white;
-        text-align: center;
-        padding: 15px;
-        margin-top: 20px;
-    }
-
-</style>
 <body>
-    <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">MySite</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
+            <a class="navbar-brand" href="#">Navbar</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" asp-controller="home" asp-action="index">Home</a>
+                        <a class="nav-link active" aria-current="page" asp-controller="home" asp-action="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" asp-controller="home" asp-action="privacy">Privacy</a>
+                        <a class="nav-link" asp-controller="home" asp-action="privacy">Pricavy</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" asp-controller="category" asp-action="list">Dashboard</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" asp-controller="account" asp-action="register">Join Us</a>
-                    </li>
+
+                    @if (User.Claims.Any())
+                    {
+                        @if (User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role).Value == "Client")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="product" asp-action="index">Products</a>
+                            </li>
+
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="product" asp-action="VendorList">Dashboard</a>
+                            </li>
+                        }
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="account" asp-action="signout">Sign Out</a>
+                        </li>
+                    }
+                    else
+                    {
+
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="account" asp-action="register">Join Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="account" asp-action="login">Login</a>
+                        </li>
+                    }
+
+
                 </ul>
-                <form class="d-flex">
-                    <input class="form-control me-2" type="search" placeholder="Search">
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
                     <button class="btn btn-outline-success" type="submit">Search</button>
                 </form>
             </div>
         </div>
     </nav>
 
-    <!-- Main Content -->
-    <main class="container mt-4">
+    <main class="container">
         @RenderBody()
     </main>
 
-    <!-- Footer -->
-    <footer class="navbar">
+    <footer class="navbar bg-body-tertiary">
         <div class="container-fluid">
-            <span class="navbar-brand mb-0 h1">&copy; 2025 PTP 45 - Aswan</span>
+            <span class="navbar-brand mb-0 h1">
+                &copy; Copyright 2025 PTP 45 -
+                <a asp-area="admin" asp-controller="home" asp-action="index">Aswan</a>
+                <a href="/admin/home/index">Aswan</a>
+            </span>
         </div>
     </footer>
-
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @RenderSection("scripts", false)
 </body>
+
 </html>

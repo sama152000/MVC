@@ -85,6 +85,88 @@
       ]
     },
     {
+      "Route": "Images/Products/FoodGroupsLP_804x482.jpg",
+      "AssetFile": "Images/Products/FoodGroupsLP_804x482.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tpRHtKHXcq9ax95Klg4dunZv1Izxf++IqCwFKVLCu8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 12:40:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tpRHtKHXcq9ax95Klg4dunZv1Izxf++IqCwFKVLCu8I="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/FoodGroupsLP_804x482.msfv3ovwqw.jpg",
+      "AssetFile": "Images/Products/FoodGroupsLP_804x482.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tpRHtKHXcq9ax95Klg4dunZv1Izxf++IqCwFKVLCu8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 12:40:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "msfv3ovwqw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tpRHtKHXcq9ax95Klg4dunZv1Izxf++IqCwFKVLCu8I="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/FoodGroupsLP_804x482.jpg"
+        }
+      ]
+    },
+    {
       "Route": "Images/Products/Ultraprocessed-food-58d54c3.jpg",
       "AssetFile": "Images/Products/Ultraprocessed-food-58d54c3.jpg",
       "Selectors": [],
@@ -111,7 +193,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 10:48:47 GMT"
+          "Value": "Mon, 24 Mar 2025 12:47:20 GMT"
         }
       ],
       "EndpointProperties": [
@@ -148,7 +230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 10:48:47 GMT"
+          "Value": "Mon, 24 Mar 2025 12:47:20 GMT"
         }
       ],
       "EndpointProperties": [
@@ -193,7 +275,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 11:17:14 GMT"
+          "Value": "Mon, 24 Mar 2025 12:56:52 GMT"
         }
       ],
       "EndpointProperties": [
@@ -238,7 +320,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 11:17:14 GMT"
+          "Value": "Mon, 24 Mar 2025 12:56:52 GMT"
         }
       ],
       "EndpointProperties": [

@@ -6,9 +6,6 @@ C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\obj\Debug\net8.0\EShop.Maneger
 C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\bin\Debug\net8.0\EF_Core.deps.json
 C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\bin\Debug\net8.0\EF_Core.runtimeconfig.json
 C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\bin\Debug\net8.0\EF_Core.exe
-C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\bin\Debug\net8.0\EShop.ViewModels.deps.json
-C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\bin\Debug\net8.0\EShop.ViewModels.runtimeconfig.json
-C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\bin\Debug\net8.0\EShop.ViewModels.exe
 C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\bin\Debug\net8.0\EShop.Manegers.exe
 C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\bin\Debug\net8.0\EShop.Manegers.deps.json
 C:\Users\hyper\Desktop\ASP\MyEShop\EShop.Manegers\bin\Debug\net8.0\EShop.Manegers.runtimeconfig.json

@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "6IUkeJw6KXM2GpTKQbnY3jiVQNOtB68bhBlXI4hzRYw=",
+  "Hash": "S7/pH22w1IGVN1jRSw+WJWfyBxrzwt8Z20ZQpcQwjO4=",
   "Source": "EShop.Presentation",
   "BasePath": "_content/EShop.Presentation",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\EShop.API\\EShop.API\\EShop.API.csproj",
+      "Version": 2,
+      "Source": "EShop.API",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "EShop.Presentation\\wwwroot",
@@ -120,6 +132,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\Images\\Products\\FoodGroupsLP_804x482.jpg",
+      "SourceId": "EShop.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\",
+      "BasePath": "_content/EShop.Presentation",
+      "RelativePath": "Images/Products/FoodGroupsLP_804x482#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "msfv3ovwqw",
+      "Integrity": "tpRHtKHXcq9ax95Klg4dunZv1Izxf++IqCwFKVLCu8I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\FoodGroupsLP_804x482.jpg"
     },
     {
       "Identity": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\Images\\Products\\pinch-of-yum-workshop-19.jpg",
@@ -1794,6 +1827,88 @@
       ]
     },
     {
+      "Route": "Images/Products/FoodGroupsLP_804x482.jpg",
+      "AssetFile": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\Images\\Products\\FoodGroupsLP_804x482.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tpRHtKHXcq9ax95Klg4dunZv1Izxf++IqCwFKVLCu8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 12:40:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tpRHtKHXcq9ax95Klg4dunZv1Izxf++IqCwFKVLCu8I="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/FoodGroupsLP_804x482.msfv3ovwqw.jpg",
+      "AssetFile": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\Images\\Products\\FoodGroupsLP_804x482.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tpRHtKHXcq9ax95Klg4dunZv1Izxf++IqCwFKVLCu8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 12:40:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "msfv3ovwqw"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/FoodGroupsLP_804x482.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tpRHtKHXcq9ax95Klg4dunZv1Izxf++IqCwFKVLCu8I="
+        }
+      ]
+    },
+    {
       "Route": "Images/Products/pinch-of-yum-workshop-19.iwfxlsk9rh.jpg",
       "AssetFile": "C:\\Users\\hyper\\Desktop\\ASP\\MyEShop\\MyEShop\\wwwroot\\Images\\Products\\pinch-of-yum-workshop-19.jpg",
       "Selectors": [],
@@ -1816,7 +1931,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 11:17:14 GMT"
+          "Value": "Mon, 24 Mar 2025 12:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1861,7 +1976,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 11:17:14 GMT"
+          "Value": "Mon, 24 Mar 2025 12:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1898,7 +2013,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 10:48:47 GMT"
+          "Value": "Mon, 24 Mar 2025 12:47:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1935,7 +2050,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 10:48:47 GMT"
+          "Value": "Mon, 24 Mar 2025 12:47:20 GMT"
         },
         {
           "Name": "Cache-Control",

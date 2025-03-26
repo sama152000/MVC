@@ -1,5 +1,6 @@
 ﻿
 using EShop.Manegers;
+using EShop.Services;
 using EShop.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -10,12 +11,13 @@ namespace EShop.Presentation.Controllers
 {
     public class AccountController : Controller
     {
-        private AccountManager accountManager;
+
         private RoleManager roleManager;
-        public AccountController(AccountManager _accountManager, RoleManager roleManager)
+        private AccountServices accountService;
+        public AccountController(AccountServices _accountServices, RoleManager roleManager)
         {
-            accountManager = _accountManager;
             this.roleManager = roleManager;
+            accountService = _accountServices;
         }
 
         [HttpGet]
@@ -34,7 +36,7 @@ namespace EShop.Presentation.Controllers
             ViewData["roles"] = list;
             if (ModelState.IsValid)
             {
-                var res = await accountManager.Register(user);
+                var res = await accountService.CreateAccount(user);
                 if (res.Succeeded)
                 {
                     return RedirectToAction("login");
@@ -63,7 +65,7 @@ namespace EShop.Presentation.Controllers
         {
             if (ModelState.IsValid)
             {
-                var res = await accountManager.Login(vmodel);
+                var res = await accountService.Login(vmodel);
                 if (res.Succeeded)
                 {
                     var role = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role).Value;
@@ -84,6 +86,12 @@ namespace EShop.Presentation.Controllers
             }
             return View();
 
+        }
+
+        public async Task<IActionResult> Signout()
+        {
+            await accountService.Signout();
+            return RedirectToAction("index", "Home");
         }
     }
 }
